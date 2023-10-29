@@ -18,5 +18,8 @@
     <ClCompile Include="Stack.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="STL_Stack.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
